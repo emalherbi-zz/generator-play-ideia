@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><%= appName %></title>
 
-  <!-- build:css ../dist/css/app.min.css -->
+  <!-- build:css css/app.min.css -->
   <% if (includeNormalize) { %><link rel="stylesheet" href="../bower_components/normalize-css/normalize.css"><% } %><% if (includeBootstrap) { %>
   <link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.min.css" ><% } %>
   <link rel="stylesheet" href="css/app.css">
@@ -89,7 +89,7 @@
     </div>
   </div>
 
-  <!-- build:js ../dist/js/app.min.js -->
+  <!-- build:js js/app.min.js -->
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   <% if (includeJQuery) { %><script src="../bower_components/jquery/dist/jquery.min.js"></script><% } %><% if (includeBootstrap) { %>
   <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script><% } %>
