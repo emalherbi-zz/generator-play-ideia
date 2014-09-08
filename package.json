@@ -1,6 +1,6 @@
 {
   "name": "generator-play-ideia",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Play Ideia",
   "main": "app/index.js",
   "scripts": {
