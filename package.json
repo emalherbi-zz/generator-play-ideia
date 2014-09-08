@@ -9,13 +9,19 @@
   "author": "emalherbi",
   "license": "MIT",
   "keywords": [
-	   "yeoman-generator",
-	   "play",
-	   "ideia",
-     "template",
-     "basic"
+    "yeoman-generator",
+    "play",
+    "ideia"
   ],
   "dependencies": {
     "yeoman-generator": "^0.17.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emalherbi/generator-play-ideia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emalherbi/generator-play-ideia/issues"
+  },
+  "homepage": "https://github.com/emalherbi/generator-play-ideia"
 }
