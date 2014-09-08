@@ -26,5 +26,6 @@ grunt
 6. Push to the branch (`git push origin my-new-feature`)
 7. Create new Pull Request
 
+## License
 
-
+[MIT License](http://en.wikipedia.org/wiki/MIT_License)
