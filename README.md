@@ -3,10 +3,34 @@ generator-play-ideia
 
 ![alt tag](http://yeoman.io/assets/img/illustration-home-inverted.ce32.png)
 
-A generator for Yeoman when you need to quickly play web application with an idea.
+A generator for [Yeoman](http://yeoman.io/) when you need to quickly play web application with an idea.
 
-	It will create an HTML, CSS and Javascript minify file.
+	It will create a HTML, CSS and Javascript minify file.
 	It can also add normalize.css, jQuery, Bootstrap.
+
+## What's Yeoman (yo)?
+
+Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
+
+#### Installing yo 
+
+```
+npm install -g yo
+```
+
+## Installing generator-play-ideia
+
+To scaffold a web application, you'll need to install the generator:
+
+```
+npm install -g generator-play-ideia
+```
+
+Finally, initiate the generator:
+
+```
+yo play-ideia
+```
 
 ## How This Generator Works
 
