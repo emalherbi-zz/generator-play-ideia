@@ -44,13 +44,13 @@ yo play-ideia
 
 ```
 app/
+├── index.html
 ├── css/
 │   ├── app.css
 ├── img/
 │   ├── yeoman-logo.png
 └── js/
     ├── app.js
-		index.html
 ```
 
 The bower dependencies are installed in another directory.
