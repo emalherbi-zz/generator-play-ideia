@@ -26,6 +26,12 @@ To scaffold a web application, you'll need to install the generator:
 npm install -g generator-play-ideia
 ```
 
+Make a new directory, and cd into it:
+
+```
+mkdir my-new-project && cd $_
+```
+
 Finally, initiate the generator:
 
 ```
