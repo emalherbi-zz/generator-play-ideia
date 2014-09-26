@@ -40,6 +40,21 @@ Finally, initiate the generator:
 yo play-ideia
 ```
 
+### Layout
+
+```
+app/
+├── css/
+│   ├── app.css
+├── img/
+│   ├── yeoman-logo.png
+└── js/
+    ├── app.js
+		index.html
+```
+
+The bower dependencies are installed in another directory.
+
 ## How This Generator Works
 
 After finishing the implementation of your application, simply run the following command to deploy your project.
