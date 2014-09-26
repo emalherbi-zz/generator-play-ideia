@@ -18,7 +18,11 @@ Yeoman helps you kickstart new projects, prescribing best practices and tools to
 npm install -g yo
 ```
 
-## ![Installing](https://asciinema.org/a/12490) generator-play-ideia
+## Installing generator-play-ideia
+
+```
+(https://asciinema.org/a/12490)
+```
 
 To scaffold a web application, you'll need to install the generator:
 
