@@ -20,9 +20,7 @@ npm install -g yo
 
 ## Installing generator-play-ideia
 
-```
-(https://asciinema.org/a/12490)
-```
+https://asciinema.org/a/12490
 
 To scaffold a web application, you'll need to install the generator:
 
