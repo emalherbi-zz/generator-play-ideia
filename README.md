@@ -1,7 +1,7 @@
 generator-play-ideia
 ====================
 
-![alt tag](http://yeoman.io/assets/img/illustration-home-inverted.ce32.png)
+![alt tag](http://emalherbi.github.io/generator-play-ideia/img/yeoman-banner.jpg)
 
 A generator for [Yeoman](http://yeoman.io/) when you need to quickly play web application with an idea.
 
@@ -12,7 +12,7 @@ A generator for [Yeoman](http://yeoman.io/) when you need to quickly play web ap
 
 Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
 
-#### Installing yo 
+#### Installing yo
 
 ```
 npm install -g yo
