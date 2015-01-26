@@ -1,9 +1,9 @@
 generator-play-ideia
 ====================
 
-![alt tag](http://emalherbi.github.io/generator-play-ideia/img/yeoman-banner.jpg)
+*A generator for [Yeoman](http://yeoman.io/) when you need to quickly play web application with an idea.*
 
-A generator for [Yeoman](http://yeoman.io/) when you need to quickly play web application with an idea.
+![alt tag](http://emalherbi.github.io/generator-play-ideia/img/yeoman-banner.jpg)
 
 ## What's Yeoman (yo)?
 
