@@ -1,7 +1,7 @@
 {
   "name": "<%= appName %>",
   "version": "<%= appVersion %>",
-  "description": "Play Ideia!",
+  "description": "A generator for Yeoman when you need to quickly play web application with an idea.",
   "main": "app/index.html",
   "author": "emalherbi",
   "license": "MIT",
