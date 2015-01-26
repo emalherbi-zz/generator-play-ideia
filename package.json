@@ -1,6 +1,6 @@
 {
   "name": "generator-play-ideia",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A generator for Yeoman when you need to quickly play web application with an idea.",
   "main": "app/index.js",
   "scripts": {
