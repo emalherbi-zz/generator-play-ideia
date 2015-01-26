@@ -5,9 +5,6 @@ generator-play-ideia
 
 A generator for [Yeoman](http://yeoman.io/) when you need to quickly play web application with an idea.
 
-	It will create a HTML, CSS and Javascript minify file.
-	It can also add normalize.css, jQuery, Bootstrap.
-
 ## What's Yeoman (yo)?
 
 Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
@@ -43,6 +40,10 @@ yo play-ideia
 ### Layout
 
 ```
+bower_components/
+├── bootstrap/
+├── jquery/
+├── normalize-css/
 app/
 ├── index.html
 ├── css/
@@ -53,7 +54,7 @@ app/
     ├── app.js
 ```
 
-The bower dependencies are installed in another directory.
+*The bower dependencies are installed in another directory.*
 
 ## How This Generator Works
 

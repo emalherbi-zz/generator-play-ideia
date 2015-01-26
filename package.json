@@ -1,7 +1,7 @@
 {
   "name": "generator-play-ideia",
   "version": "0.1.4",
-  "description": "Play Ideia",
+  "description": "A generator for Yeoman when you need to quickly play web application with an idea.",
   "main": "app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
